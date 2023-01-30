@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "g6HIOXEpkPE4DqXvPVRsELRGOX0",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 25
+  },
+  "items": [
+      {
+          "kind": "youtube#searchResult",
+          "etag": "HnqZwruRUrniaJU7A_VfiAwWSRQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "m32Ur3CTL8Q"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-20T14:00:23Z",
+              "channelId": "UCaXZcExaj1B_KWR1rOOUx7w",
+              "title": "8 Things You Must Never Do to Your Border Collie",
+              "description": "8 Things You Must Never Do to Your Border Collie Border Collies can both be a farmer's hardworking best friend, or a family's ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/m32Ur3CTL8Q/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/m32Ur3CTL8Q/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/m32Ur3CTL8Q/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Animal Insider",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-20T14:00:23Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "7Q4kDAYKhyQaRmpowoIHjvbXoes",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "bzpvPMN7uCk"
+          },
+          "snippet": {
+              "publishedAt": "2017-07-21T19:00:04Z",
+              "channelId": "UCpejL4mTlUJ_hfQY1PiCW6Q",
+              "title": "BORDER COLLIE THE WORLD&#39;S SMARTEST DOGS",
+              "description": "Please support the Channel by checking out my affiliate links!!! Become a Dogumentary TV Channel member!!!",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/bzpvPMN7uCk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/bzpvPMN7uCk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/bzpvPMN7uCk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Dogumentary TV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2017-07-21T19:00:04Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "uWGQoUkPXey-P3cjpH09t_O6IDE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "P4ny-wvTvJ0"
+          },
+          "snippet": {
+              "publishedAt": "2022-08-15T14:00:22Z",
+              "channelId": "UCaXZcExaj1B_KWR1rOOUx7w",
+              "title": "Border Collie: The Pros &amp; Cons of Owning One",
+              "description": "Border Collie: The Pros & Cons of Owning One Known as an intelligent, energetic, and loving dog breed, the Border Collie ranks ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/P4ny-wvTvJ0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/P4ny-wvTvJ0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/P4ny-wvTvJ0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Animal Insider",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-08-15T14:00:22Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "EHmMwAJwQFs-RGkpaqoCCdKMAnk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "gY_KujhVW6s"
+          },
+          "snippet": {
+              "publishedAt": "2019-12-05T19:00:08Z",
+              "channelId": "UCkEBDbzLyH-LbB2FgMoSMaQ",
+              "title": "Baby Border Collies Start Learning To Herd | Too Cute!",
+              "description": "These border collie pups are about to start their training and learn to herd, but before they can try herding sheep like their parents, ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/gY_KujhVW6s/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/gY_KujhVW6s/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/gY_KujhVW6s/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Animal Planet",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-12-05T19:00:08Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "6WUFqTzbmc-kk6B6MuWmNm7uTzQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "q8FfNQ_E0l0"
+          },
+          "snippet": {
+              "publishedAt": "2011-03-26T03:58:58Z",
+              "channelId": "UCctWTUxXxPMniJil6nURQQA",
+              "title": "Nana the Border Collie Performs Amazing Dog Tricks",
+              "description": "Nana is available for print ads, commercials, film, and other media work. If you are interested in using her for your project, please ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/q8FfNQ_E0l0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/q8FfNQ_E0l0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/q8FfNQ_E0l0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "NanaBorderCollie",
+              "liveBroadcastContent": "none",
+              "publishTime": "2011-03-26T03:58:58Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "iMr553I7mx5KKw5jCKIvWUr_Fqo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "cPPdwadPXGI"
+          },
+          "snippet": {
+              "publishedAt": "2021-11-01T16:00:16Z",
+              "channelId": "UCUFnGWHIQvybwmR7XDh7-9A",
+              "title": "Border Collies will outsmart you | Channel Announcements",
+              "description": "Hey Pawsitive People! Thank you so much for your support. All of you have given me the opportunity to help pets in need, which is ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/cPPdwadPXGI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/cPPdwadPXGI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/cPPdwadPXGI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Girl With The Dogs",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-11-01T16:00:16Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "_wI-yKvlBuq-DA35Xgv-MmEwW8o",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "hxMsVbFr1Bc"
+          },
+          "snippet": {
+              "publishedAt": "2019-02-10T22:09:51Z",
+              "channelId": "UCwNqHDsnBCKT-olwJwIFyfg",
+              "title": "P!nk the border collie wins back-to-back titles at the 2019 WKC Masters Agility | FOX SPORTS",
+              "description": "P!nk the border collie wins back-to-back titles in the 16\" class at the 2019 WKC Masters Agility. P!nk ran a time of 31.23.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/hxMsVbFr1Bc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/hxMsVbFr1Bc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/hxMsVbFr1Bc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "FOX Sports",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-02-10T22:09:51Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "L1rhwaHHwk94uQvoZ7NLDKGhdzU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "_6dZ3nKoXDE"
+          },
+          "snippet": {
+              "publishedAt": "2019-01-15T20:00:07Z",
+              "channelId": "UCuI80PeuuCYHXxBj7r_0OAg",
+              "title": "Best Border Collies of 2019 🐶 | Funny Pet Videos",
+              "description": "Welcome to #thatpetlife! Home to the best pet videos Subscribe: https://bit.ly/2zpf5pV | Make sure to enable ALL push ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/_6dZ3nKoXDE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/_6dZ3nKoXDE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/_6dZ3nKoXDE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "AFV PETS",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-01-15T20:00:07Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "D5Gem2hRG-gGIvF9HurwwR23oPQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "fdqFkhB08n0"
+          },
+          "snippet": {
+              "publishedAt": "2021-07-02T01:00:06Z",
+              "channelId": "UCaXZcExaj1B_KWR1rOOUx7w",
+              "title": "12 Things Only Border Collie Dog Owners Understand",
+              "description": "12 Things Only Border Collie Dog Owners Understand A dog that is bred to work, the Border Collie is one of the most energetic, ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/fdqFkhB08n0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/fdqFkhB08n0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/fdqFkhB08n0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Animal Insider",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-07-02T01:00:06Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "QLUL6AGEW7gqeSs_Nj3AKol76ic",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "tGlUZWNjxPA"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-26T15:02:32Z",
+              "channelId": "UCsN32BtMd0IoByjJRNF12cw",
+              "title": "The smartest dog in the world | 60 Minutes Archive",
+              "description": "In 2014, 60 Minutes first attempted to answer the age-old question: does your dog really love you? #60Minutes #Dog #Dogs \"60 ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/tGlUZWNjxPA/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/tGlUZWNjxPA/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/tGlUZWNjxPA/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "60 Minutes",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-26T15:02:32Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "4sDjh8cx4Y5BkyiZa7wx5tvo_Mg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "KRJO1RJTloU"
+          },
+          "snippet": {
+              "publishedAt": "2007-12-07T07:02:36Z",
+              "channelId": "UCpFXgYWczJ2erpvbPPqILkQ",
+              "title": "My talking border collie - learning to say &quot;hello&quot;!",
+              "description": "My dog, Scratch, a border collie, has learned how to say \"Hello\" fairly coherantly. We're still in the teaching process, but listen and ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/KRJO1RJTloU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/KRJO1RJTloU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/KRJO1RJTloU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "ndaher",
+              "liveBroadcastContent": "none",
+              "publishTime": "2007-12-07T07:02:36Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "CjrzTrLJ5dX5Z4Mn2ENXxJ9Fn_I",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "HtlhLfq-csg"
+          },
+          "snippet": {
+              "publishedAt": "2019-01-27T22:00:00Z",
+              "channelId": "UCehBsZIPmlXUedqF9bKRSqw",
+              "title": "10 Fascinating Facts About the Border Collie",
+              "description": "If you love Border Collies, and there may be something amiss if you don't, then you will know how wonderful a dog they can be.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/HtlhLfq-csg/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/HtlhLfq-csg/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/HtlhLfq-csg/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "AnimalWised",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-01-27T22:00:00Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Ms6SScbJQ-lnGNVABxiFrjDqn6A",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "iau8mxsIgRc"
+          },
+          "snippet": {
+              "publishedAt": "2020-12-18T16:00:28Z",
+              "channelId": "UCaXZcExaj1B_KWR1rOOUx7w",
+              "title": "Border collie vs Australian Shepherd Differences - Which Breed Is Better?",
+              "description": "Border collie vs Australian Shepherd Differences - Which Breed Is Better? Either you're stuck between these two wonderful ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/iau8mxsIgRc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/iau8mxsIgRc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/iau8mxsIgRc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Animal Insider",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-12-18T16:00:28Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "uwAlUkp4P_Zocba80jSbxsPKVEw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "L3rnPYnCtSw"
+          },
+          "snippet": {
+              "publishedAt": "2021-12-04T17:00:11Z",
+              "channelId": "UC6ePvWJ231Ni_ujt36Pv-ug",
+              "title": "Most Awesome Border Collie TikTok Compilation | Dogs Of TikTok",
+              "description": "Most Awesome Border Collie TikTok Compilation | Dogs Of TikTok | Border Collie TikTok | TikTok Compilation | Compilation ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/L3rnPYnCtSw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/L3rnPYnCtSw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/L3rnPYnCtSw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Dogs Of TikTok",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-12-04T17:00:11Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "s7ylsbdm9C_XMVf7Zu3WUfHfCTk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "bYPdEdEXOg0"
+          },
+          "snippet": {
+              "publishedAt": "2020-08-19T06:41:59Z",
+              "channelId": "UCpE-X1Td1RATcPJXD9eMQqQ",
+              "title": "Dogs: husky vs border collie agility",
+              "description": "Dogs: husky vs border collie agility #BorderCollie #dogs.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/bYPdEdEXOg0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/bYPdEdEXOg0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/bYPdEdEXOg0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Eyepetizer",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-08-19T06:41:59Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "YQWfBB69U6hr6-byEewy_NsxaAA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "yyWheXqf_hM"
+          },
+          "snippet": {
+              "publishedAt": "2022-06-19T21:27:43Z",
+              "channelId": "UCwNqHDsnBCKT-olwJwIFyfg",
+              "title": "Best of 2022 Masters Agility Championships from Westminster Kennel Club | FOX Sports",
+              "description": "The 2022 Masters Agility Championship returned to the Westminster Kennel Club Dog Show in style. Watch the best of this year's ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/yyWheXqf_hM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/yyWheXqf_hM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/yyWheXqf_hM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "FOX Sports",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-06-19T21:27:43Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "JYogsJ-evQvS-wx62ArudQgDAqw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "dX5gynZg-s8"
+          },
+          "snippet": {
+              "publishedAt": "2020-12-15T02:58:38Z",
+              "channelId": "UCYKp0nGEw_i-XoTm3w7HgRw",
+              "title": "amazing border collie",
+              "description": "taken from tiktok.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/dX5gynZg-s8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/dX5gynZg-s8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/dX5gynZg-s8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "moonchi2ed",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-12-15T02:58:38Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "pS6iqGYaoNGIaWlo1DAmkdz3GXo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "dZiHiQbM5dw"
+          },
+          "snippet": {
+              "publishedAt": "2020-01-19T14:00:05Z",
+              "channelId": "UC5QwYlOxcT1higtcJVGzCCg",
+              "title": "Border Collie Puppy Training - 10 Skills To TEACH FIRST!",
+              "description": "If you're a Border Collie puppy owner, you're probably quickly discovering that your puppy can learn the bad habits just as quickly ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/dZiHiQbM5dw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/dZiHiQbM5dw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/dZiHiQbM5dw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "McCann Dog Training",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-01-19T14:00:05Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "ETDTHcdvJWURL8ffZZhHtUMVptw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ZxORgFYnE2w"
+          },
+          "snippet": {
+              "publishedAt": "2021-06-08T13:00:24Z",
+              "channelId": "UChFsYLqPUyLiZnfRog6wiZA",
+              "title": "Phillip &amp; Britain&#39;s Smartest Dog Make Special Connection | This Morning",
+              "description": "Have we found Britain's smartest dog? Not only can six-year-old Border Collie Bear correctly identify up to 80 toys and get them ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ZxORgFYnE2w/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ZxORgFYnE2w/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ZxORgFYnE2w/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "This Morning",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-06-08T13:00:24Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "EtqSsbydxQ2BOv418qAz0RkyZS0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "-7aJqLXC-4U"
+          },
+          "snippet": {
+              "publishedAt": "2020-11-01T08:04:53Z",
+              "channelId": "UCfgKbsEsv9GjgKtO5dc43cQ",
+              "title": "Owning a BORDER COLLIE: The pros and cons",
+              "description": "Hello everyone! I hope you enjoy this video about owning a Border Collie: Pros and Cons with little border collie puppy Cedar ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/-7aJqLXC-4U/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/-7aJqLXC-4U/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/-7aJqLXC-4U/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Brooke Thomo",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-11-01T08:04:53Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "PMQa8tm8eTvs-WImt564caxpm6o",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "TIezjlmfbIU"
+          },
+          "snippet": {
+              "publishedAt": "2022-08-19T13:30:09Z",
+              "channelId": "UCH5Hj5N9UINfd-ahpBh2t9g",
+              "title": "5 Things You Must Never Do to Your Border Collie",
+              "description": "In this video, we will talk about 5 Things You Must Never Do to Your Border Collie. ✓✓ Develop your dog's hidden intelligence to ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/TIezjlmfbIU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/TIezjlmfbIU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/TIezjlmfbIU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "The Cagdot",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-08-19T13:30:09Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Tc9db7HEKH7pVJQMZcXnGnHy2sU",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCLEpDFTJclXYQZywgBIFUAQ"
+          },
+          "snippet": {
+              "publishedAt": "2018-12-29T19:54:10Z",
+              "channelId": "UCLEpDFTJclXYQZywgBIFUAQ",
+              "title": "Loki Border Collie",
+              "description": "Woof I'm Loki The Collie     YouTuber, Video Editor, Film Producer, Photographer. Videos Of Loki The Border Collie Puppy (aka ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/AL5GRJWyjnebgPdNMzIHoQ25yT9ywOezCj5B-NSP-2x8kQ=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/AL5GRJWyjnebgPdNMzIHoQ25yT9ywOezCj5B-NSP-2x8kQ=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/AL5GRJWyjnebgPdNMzIHoQ25yT9ywOezCj5B-NSP-2x8kQ=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "Loki Border Collie",
+              "liveBroadcastContent": "upcoming",
+              "publishTime": "2018-12-29T19:54:10Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "-Edtw_8r9jNNbLZGZeVQJeIieRk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "JgLuJua1QZs"
+          },
+          "snippet": {
+              "publishedAt": "2020-05-27T19:00:07Z",
+              "channelId": "UCrHXn9pTiIx9tV_x4hg2IzQ",
+              "title": "Border Collie vs Australian Shepherd - DIFFERENCES",
+              "description": "What are the differences of the Australian Shepherd vs Border Collie? Find out in this video. (*Disclosure: this post may contain ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/JgLuJua1QZs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/JgLuJua1QZs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/JgLuJua1QZs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Dog World",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-05-27T19:00:07Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "eGr0HcFIUQVlEg60nm573GzmJWk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "CSXrwBMWzQo"
+          },
+          "snippet": {
+              "publishedAt": "2021-02-13T23:22:08Z",
+              "channelId": "UCq2YXuqUy2KN5k8I7HMhWrA",
+              "title": "Day in the life with seven week old border collie puppies",
+              "description": "Join us for a day in the life with a litter of seven week old border collie puppies!",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/CSXrwBMWzQo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/CSXrwBMWzQo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/CSXrwBMWzQo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Tiffany Ellen",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-02-13T23:22:08Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "w19PVhid68uKPsh6RhwpyCyRr8s",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "dyuLb29Lxgw"
+          },
+          "snippet": {
+              "publishedAt": "2013-04-11T15:51:42Z",
+              "channelId": "UCRoWedMXVZOdfjHRN3iVnJw",
+              "title": "Bazter recogiendo el rebaño",
+              "description": "Nos ayudamos de Bazter para pasar las ovejas de una finca a otra, hoy las desparasitaremos. Al juntarlas, Fermín se da cuenta ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/dyuLb29Lxgw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/dyuLb29Lxgw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/dyuLb29Lxgw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Yeleen Border Collie",
+              "liveBroadcastContent": "none",
+              "publishTime": "2013-04-11T15:51:42Z"
+          }
+      }
+  ]
+}

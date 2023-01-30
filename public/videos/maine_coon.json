@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "b99dVyMY_DSUPaGWALDOPmeXZtw",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+      "totalResults": 611169,
+      "resultsPerPage": 25
+  },
+  "items": [
+      {
+          "kind": "youtube#searchResult",
+          "etag": "NcvRbIeFmo3wYGTQNb9jdtOAWwE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "g_LNu6Aaxvk"
+          },
+          "snippet": {
+              "publishedAt": "2020-11-28T17:34:31Z",
+              "channelId": "UCdb4H0h8xQ8fhxMzf5tAXFA",
+              "title": "Maine Coon Cat 101 - Watch This Before Getting One (Full Guide)",
+              "description": "Are Maine Coon cats expensive? How much do Maine Coon cats live? Do Maine Coon cats get along with other pets? We answer ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/g_LNu6Aaxvk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/g_LNu6Aaxvk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/g_LNu6Aaxvk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Facts about Cats",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-11-28T17:34:31Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "f9J3RPpuU9TGB8nSqui1GrVdwOQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "kIJdrLPqAts"
+          },
+          "snippet": {
+              "publishedAt": "2022-03-26T14:30:07Z",
+              "channelId": "UCta3MuD7omvsJyb-SMQkKOQ",
+              "title": "THE BIGGEST MAINE COON CATS",
+              "description": "Do you love big cats? Do you love Maine Coon Cats? If so, this video is definitely for you! Watch as we introduce you to some of ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/kIJdrLPqAts/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/kIJdrLPqAts/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/kIJdrLPqAts/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Trend Max",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-03-26T14:30:07Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "3g9nZP00bwsO5KzPvNFZrNVragw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "_K6boIXkp6M"
+          },
+          "snippet": {
+              "publishedAt": "2022-04-09T16:00:17Z",
+              "channelId": "UCdb4H0h8xQ8fhxMzf5tAXFA",
+              "title": "MUST-KNOW Maine Coon Cat PROS And CONS",
+              "description": "Maine Coons are extremely popular, but even the most famous cat breed in the world has its disadvantages! Stick with us to find ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/_K6boIXkp6M/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/_K6boIXkp6M/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/_K6boIXkp6M/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Facts about Cats",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-04-09T16:00:17Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "9CLgwYc_vxexLI6FXvTSXg99FTA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Rq6QCPY-mmQ"
+          },
+          "snippet": {
+              "publishedAt": "2021-06-27T15:40:03Z",
+              "channelId": "UCdb4H0h8xQ8fhxMzf5tAXFA",
+              "title": "Maine Coon Cat Vs Normal Cat - So Different You&#39;ll Be SHOCKED",
+              "description": "You'll be shocked to hear how different Maine Coons are from your average cat! In this Maine coon cat vs normal cat video that's ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Rq6QCPY-mmQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Rq6QCPY-mmQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Rq6QCPY-mmQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Facts about Cats",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-06-27T15:40:03Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "cLHhAdaDR7j8fvxRMdf2fK4wAH0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "YBBsTEbkyG0"
+          },
+          "snippet": {
+              "publishedAt": "2022-02-12T15:00:15Z",
+              "channelId": "UCbKQ2beRtoS4Q4s939kJvhg",
+              "title": "What It’s Like Owning A Maine Coon",
+              "description": "Here's what it's like owning a Maine Coon cat. A nice brief overview of the breed, to give you a taste of life with a Maine Coon.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/YBBsTEbkyG0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/YBBsTEbkyG0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/YBBsTEbkyG0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Maine Coon Central",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-02-12T15:00:15Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "tOXImIuN1tKCA2k2FCwpe-rjCVk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "xy4e-R8FiR4"
+          },
+          "snippet": {
+              "publishedAt": "2021-06-12T20:00:21Z",
+              "channelId": "UCUFnGWHIQvybwmR7XDh7-9A",
+              "title": "Giant Maine Coon cat ATTACKS groomer",
+              "description": "EQUIGROOMER™ DE-SHEDDING BRUSH: https://girlwiththedogs.com/shop HAPPY HOODIE®: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/xy4e-R8FiR4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/xy4e-R8FiR4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/xy4e-R8FiR4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Girl With The Dogs",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-06-12T20:00:21Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "-MWSf6o7fEu-UOX7kM-eVvD2GwY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "Du_P3JOiw8I"
+          },
+          "snippet": {
+              "publishedAt": "2021-03-31T14:00:09Z",
+              "channelId": "UC5CWEPWvAAI6Ac710lO5_XQ",
+              "title": "Mr. ViVo | Most handsome Maine Coon cat in the world.",
+              "description": "Mr. ViVo is 4 years old and is a purebred Maine Coon cat. Every time I do a session for our cats, Mr. ViVo is present. Apart from the ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Du_P3JOiw8I/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Du_P3JOiw8I/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Du_P3JOiw8I/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Felis Gallery by Robert Sijka",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-03-31T14:00:09Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "HpUDXIVDJkxNmuaERELDEvYZYwk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "64e49wfd-Mo"
+          },
+          "snippet": {
+              "publishedAt": "2022-05-18T19:42:25Z",
+              "channelId": "UCl3lFC6kNjZXyehOt4iGGBQ",
+              "title": "Maine Coon Cat Breed Characteristics, Facts &amp; Personality Explained",
+              "description": "One of the largest cat breeds in existence today, and one of the most popular breeds worldwide, the Maine Coon has a heart to ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/64e49wfd-Mo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/64e49wfd-Mo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/64e49wfd-Mo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "We're All About Pets",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-05-18T19:42:25Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "TpDNrbN_99mo4hrFiIyN3bPDP-0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "CTE7KJCa3ew"
+          },
+          "snippet": {
+              "publishedAt": "2021-10-21T02:15:31Z",
+              "channelId": "UCD8B0FwfNiWjWODh9YXGArg",
+              "title": "8 Annoying Things Maine Coons Do",
+              "description": "Hey friends and family! Here's a new video for you, hope you like it! Also, I have no idea why my voice sounds deeper in this video ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/CTE7KJCa3ew/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/CTE7KJCa3ew/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/CTE7KJCa3ew/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Life with Maine Coon Cats",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-10-21T02:15:31Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Nj0-Z9w9biDYvjFDWIIyNp4AKkk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "nE4mpEM8914"
+          },
+          "snippet": {
+              "publishedAt": "2023-01-05T21:35:28Z",
+              "channelId": "UCmCOoX7E0hybWf1h7UJ4mrg",
+              "title": "Maine Coon Kittens Growing Up | First 100 Days Of Their Lives!",
+              "description": "In this video you will see Maine Coon kittens Thor, Idun, Freya and Grim growing up from their birth all the way to day 100.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/nE4mpEM8914/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/nE4mpEM8914/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/nE4mpEM8914/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Maine Coon Kittens",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-01-05T21:35:28Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "OaVuWeLr5hqyAFMjS7J3fZzLskY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "UTCmi8Ms7UM"
+          },
+          "snippet": {
+              "publishedAt": "2022-09-09T01:34:00Z",
+              "channelId": "UCD8B0FwfNiWjWODh9YXGArg",
+              "title": "Maine Coon Moose MEOWS Kitten Vs Adult",
+              "description": "Hey everyone, I wanted to share this video I put together today of Moose meowing as a kitten vs an adult. You all are always ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/UTCmi8Ms7UM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/UTCmi8Ms7UM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/UTCmi8Ms7UM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Life with Maine Coon Cats",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-09-09T01:34:00Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "wpAwtxa1uv1Jwp9rWQZDmBhycpE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "bALhMs228OY"
+          },
+          "snippet": {
+              "publishedAt": "2013-08-28T00:33:06Z",
+              "channelId": "UCDtnOp7jxs-OxlHrYw6QTAg",
+              "title": "ENORMOUS Maine Coon Cat Sean Coonery Talking",
+              "description": "Maine Coon Cat Information - https://SeanCoonery.com The Maine Coon cat is among the most brilliant animals on Earth!",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/bALhMs228OY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/bALhMs228OY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/bALhMs228OY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "IrixGuy's Adventure Channel",
+              "liveBroadcastContent": "none",
+              "publishTime": "2013-08-28T00:33:06Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "81bHUxZiJMHTRjinoF0zPJrdudA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "weebcQPRGUE"
+          },
+          "snippet": {
+              "publishedAt": "2018-04-14T21:00:08Z",
+              "channelId": "UCehBsZIPmlXUedqF9bKRSqw",
+              "title": "MAINE COON – Characteristics, Character and Care",
+              "description": "Welcome to this AnimalWised video. Today we're going to talk about one of the most popular giant cat breeds: the Maine Coon.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/weebcQPRGUE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/weebcQPRGUE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/weebcQPRGUE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "AnimalWised",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-04-14T21:00:08Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "SLPHBI3e_jlBdx66uZ0Vnkzfxis",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "9y0pfAzwLAs"
+          },
+          "snippet": {
+              "publishedAt": "2022-01-21T14:30:02Z",
+              "channelId": "UCta3MuD7omvsJyb-SMQkKOQ",
+              "title": "The BIGGEST CAT BREEDS In The World",
+              "description": "When it comes to the world's biggest cat breeds, things can get a little hairy. From Maine Coons to Siberian Forest Cats, these are ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/9y0pfAzwLAs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/9y0pfAzwLAs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/9y0pfAzwLAs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Trend Max",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-01-21T14:30:02Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "j2L88SwWVauhI01KYcVXniRutbo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "pHHCIwGXfwc"
+          },
+          "snippet": {
+              "publishedAt": "2021-05-06T19:36:09Z",
+              "channelId": "UCD8B0FwfNiWjWODh9YXGArg",
+              "title": "19 Things to Expect When You Get a Maine Coon Kitten",
+              "description": "In this video I talk about 19 things you can expect when you bring home a Maine Coon kitten. Many people have requested me to ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/pHHCIwGXfwc/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/pHHCIwGXfwc/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/pHHCIwGXfwc/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Life with Maine Coon Cats",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-05-06T19:36:09Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "VTqoa27XSgNuAMkiKTVG2bm1Meg",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCD8B0FwfNiWjWODh9YXGArg"
+          },
+          "snippet": {
+              "publishedAt": "2018-01-25T23:18:55Z",
+              "channelId": "UCD8B0FwfNiWjWODh9YXGArg",
+              "title": "Life with Maine Coon Cats",
+              "description": "Life with our 5 cats Subscribe to us on YouTube NEGATIVITY Instagram & Facebook: @lifewithmainecooncats.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/9K7zHCEJh1Q9BS_7yDWClpJQAJQO_FQJEmJhXwMRxtA7s3-T2atcM4FS4NioIxGj8ik2AXYvkHA=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/9K7zHCEJh1Q9BS_7yDWClpJQAJQO_FQJEmJhXwMRxtA7s3-T2atcM4FS4NioIxGj8ik2AXYvkHA=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/9K7zHCEJh1Q9BS_7yDWClpJQAJQO_FQJEmJhXwMRxtA7s3-T2atcM4FS4NioIxGj8ik2AXYvkHA=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "Life with Maine Coon Cats",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-01-25T23:18:55Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "_Oo8SLx1SZu4GYNsc6x10F5y0hQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ufnxbOrRh-8"
+          },
+          "snippet": {
+              "publishedAt": "2022-10-04T12:44:36Z",
+              "channelId": "UCrpxzI1qrkWgyVyBxJ-AqMA",
+              "title": "Why I Regret Getting Maine Coon cats 😩 The Truth ✨",
+              "description": "If you know what a sarcasm is So many “regrets” that I want one more Maine Coon cat (1) So loud purring (2) Too loving (3) ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ufnxbOrRh-8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ufnxbOrRh-8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ufnxbOrRh-8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Maxie & Foxie Maine Coons",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-10-04T12:44:36Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "hKQv-CUbbs0RQciXP3Uh4hPRwpo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "e-CoBWQvkow"
+          },
+          "snippet": {
+              "publishedAt": "2016-10-03T23:00:01Z",
+              "channelId": "UC9LxuffQCm_Z4KBCoXZvSHA",
+              "title": "4ft Long Samson Is New York’s Biggest Cat",
+              "description": "SUBSCRIBE to Barcroft Animals: http://bit.ly/2ceCJY0 MEET Samson, New York's biggest cat - weighing 28 pounds and ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/e-CoBWQvkow/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/e-CoBWQvkow/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/e-CoBWQvkow/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Beastly",
+              "liveBroadcastContent": "none",
+              "publishTime": "2016-10-03T23:00:01Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "pRLlkFu2kAeOx_ipXLC0DI_-E-c",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "qivYJjDM5sw"
+          },
+          "snippet": {
+              "publishedAt": "2022-02-01T02:30:12Z",
+              "channelId": "UCieEW4NVXDoSBJp1f8_g7xw",
+              "title": "Types of Maine Coon Colors and Pattern | Maine Coon cat types",
+              "description": "Types of Maine Coon Colors and Pattern | Maine Coon cat types Contact : If you have any complaint regarding to content, please ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/qivYJjDM5sw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/qivYJjDM5sw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/qivYJjDM5sw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Animal Sector",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-02-01T02:30:12Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "fXEVgVhrv9asLD0QWTsmLwzUkmA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "K8xZjKT9feg"
+          },
+          "snippet": {
+              "publishedAt": "2021-09-23T18:33:00Z",
+              "channelId": "UCTR-42H8jWei7DYubFENn1A",
+              "title": "NORWEGIAN FOREST CAT VS MAINE COON CAT (Breed Comparison - Detailed) A Must Watch!",
+              "description": "Welcome to Animal Digest. Maybe you are unable to tell the difference between a Norwegian Forest Cat and a Maine Coon Cat.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/K8xZjKT9feg/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/K8xZjKT9feg/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/K8xZjKT9feg/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Animal Digest",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-09-23T18:33:00Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "4pJv-ezXKIr1SVJTga0PJF1webk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "hcMbcifTCC0"
+          },
+          "snippet": {
+              "publishedAt": "2022-06-27T12:30:12Z",
+              "channelId": "UCzNXxgsq28EDyWXTyC5qtnA",
+              "title": "10 Different Types of Maine Coon Cat Colors",
+              "description": "10 Different Types of Maine Coon Cat Colors Subscribe for daily update https://goo.gl/mBhjxd Contact: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/hcMbcifTCC0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/hcMbcifTCC0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/hcMbcifTCC0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Animal Beast",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-06-27T12:30:12Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "HEe7VjKy9fA4_MOKjQOnE1qvtOY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "YOg_RkLBaBw"
+          },
+          "snippet": {
+              "publishedAt": "2022-04-10T15:23:14Z",
+              "channelId": "UCNUFlSaS4nA-3c-mHPWlD_w",
+              "title": "Reasons to get a Maine Coon cat",
+              "description": "Self Cleaning Cat Brush https://bit.ly/36dW8Hi.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/YOg_RkLBaBw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/YOg_RkLBaBw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/YOg_RkLBaBw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Cat Purrfections",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-04-10T15:23:14Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "dwQz_xT5l24prhDK84--3D8O4Qk",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "owDZ7Q56C24"
+          },
+          "snippet": {
+              "publishedAt": "2022-04-15T21:45:09Z",
+              "channelId": "UCD8B0FwfNiWjWODh9YXGArg",
+              "title": "15 Ways Maine Coons Act Like Dogs",
+              "description": "We hope you all have a great Easter weekend! I decided to make this video today where I talk about ways our Maine Coons act ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/owDZ7Q56C24/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/owDZ7Q56C24/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/owDZ7Q56C24/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Life with Maine Coon Cats",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-04-15T21:45:09Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "82KkIlV944AVtDU45Xs5cAD4MYw",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "2Ae0Uvxv1oY"
+          },
+          "snippet": {
+              "publishedAt": "2022-03-16T14:30:00Z",
+              "channelId": "UCH5Hj5N9UINfd-ahpBh2t9g",
+              "title": "5 Things Maine Coon Cats Hate That You Should Avoid",
+              "description": "In this video, we bring to you 5 Things Maine Coon Cats Hate That You Should Avoid. ✓✓ Subscribe for daily guides and tips that ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/2Ae0Uvxv1oY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/2Ae0Uvxv1oY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/2Ae0Uvxv1oY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "The Cagdot",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-03-16T14:30:00Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "O96DCQcGiFGtj4HWiJ3q_lLb_Fo",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "TCffI5b5d2s"
+          },
+          "snippet": {
+              "publishedAt": "2021-05-22T13:30:03Z",
+              "channelId": "UC5CWEPWvAAI6Ac710lO5_XQ",
+              "title": "The largest Maine Coon cat in our family.",
+              "description": "Meet Impact, the largest Maine Coon in our feline family. He is almost 9 years old and he is larger than the average male of this ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/TCffI5b5d2s/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/TCffI5b5d2s/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/TCffI5b5d2s/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Felis Gallery by Robert Sijka",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-05-22T13:30:03Z"
+          }
+      }
+  ]
+}
